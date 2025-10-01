@@ -1,0 +1,18 @@
+Robots.txt
+
+user-agent: *
+allow: /
+disallow: */viewcart
+disallow: */reviews
+disallow: */store
+disallow: */login
+disallow: */private
+disallow: */offer-details
+disallow: */communication-preferences
+disallow: */helpcentre
+disallow: */moblie-apps?
+disallow: */accounts
+disallow: */minutes-store?
+
+
+Sitemap: https://www.flipkart.com/sitemap.xml
